@@ -344,14 +344,5 @@ engine = InsightCalculadoEngine({})
 
 dados_empresa = load_json("atividades\Games.json")
 engine = InsightCalculadoEngine(dados_empresa)
-resultado = engine.aula_2()             
-print("\nTeste 2 - aula2")
+resultado = engine.aula_2()
 print(resultado)
-save_json("teste_saida_aula2b.json", resultado)
-
-#print("Media1="+str(safe_mean([0,0,0,0,0,10,10,10,10,10])))
-#print("Variancia1="+str(safe_variance([0,0,0,0,0,10,10,10,10,10])))
-#print("Media2="+str(safe_mean([4.5,4.5,4.5,4.5,4.5,5.5,5.5,5.5,5.5,5.5])))
-#print("Variancia2="+str(safe_variance([4.5,4.5,4.5,4.5,4.5,5.5,5.5,5.5,5.5,5.5])))
-
-#print(amplitude([-1,1,2,2,2,3,4,5]))
