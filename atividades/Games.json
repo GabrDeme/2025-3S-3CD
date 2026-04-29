@@ -1,0 +1,5231 @@
+{"dados": [
+  {
+    "dateTime": "2026-04-17 22:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Warriors",
+    "homeScore": "111",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-04-17 19:30:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Hornets",
+    "homeScore": "121",
+    "awayScore": "90"
+  },
+  {
+    "dateTime": "2026-04-15 22:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Warriors",
+    "homeScore": "121",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-04-15 19:30:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Magic",
+    "homeScore": "109",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-04-14 22:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "110",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-04-14 19:30:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Heat",
+    "homeScore": "127",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-04-12 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Bulls",
+    "homeScore": "149",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-04-12 20:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "132",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-04-12 20:30:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Pelicans",
+    "homeScore": "132",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-04-12 20:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Suns",
+    "homeScore": "103",
+    "awayScore": "135"
+  },
+  {
+    "dateTime": "2026-04-12 20:30:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Nuggets",
+    "homeScore": "118",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-04-12 20:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Jazz",
+    "homeScore": "131",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-04-12 20:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Warriors",
+    "homeScore": "115",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-04-12 20:30:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Kings",
+    "homeScore": "122",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-04-12 18:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Magic",
+    "homeScore": "113",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-04-12 18:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Wizards",
+    "homeScore": "130",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-04-12 18:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Pistons",
+    "homeScore": "121",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-04-12 18:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Hawks",
+    "homeScore": "143",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-04-12 18:00:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Hornets",
+    "homeScore": "96",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-04-12 18:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Bucks",
+    "homeScore": "126",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-04-12 18:00:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Nets",
+    "homeScore": "136",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-04-10 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Suns",
+    "homeScore": "101",
+    "awayScore": "73"
+  },
+  {
+    "dateTime": "2026-04-10 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Clippers",
+    "homeScore": "116",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-04-10 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Warriors",
+    "homeScore": "124",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-04-10 21:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "132",
+    "awayScore": "136"
+  },
+  {
+    "dateTime": "2026-04-10 21:30:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "147",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-04-10 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Thunder",
+    "homeScore": "127",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-04-10 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Magic",
+    "homeScore": "103",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-04-10 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Nets",
+    "homeScore": "125",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-04-10 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Mavericks",
+    "homeScore": "139",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-04-10 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Pelicans",
+    "homeScore": "144",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-04-10 19:30:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "76ers",
+    "homeScore": "94",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-04-10 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Raptors",
+    "homeScore": "112",
+    "awayScore": "95"
+  },
+  {
+    "dateTime": "2026-04-10 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Pistons",
+    "homeScore": "100",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-04-10 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Heat",
+    "homeScore": "117",
+    "awayScore": "140"
+  },
+  {
+    "dateTime": "2026-04-10 19:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "124",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-04-09 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Lakers",
+    "homeScore": "103",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-04-09 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "76ers",
+    "homeScore": "113",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-04-09 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Pacers",
+    "homeScore": "94",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-04-09 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Celtics",
+    "homeScore": "112",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-04-09 19:00:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Heat",
+    "homeScore": "128",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-04-09 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Bulls",
+    "homeScore": "108",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-04-08 22:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Thunder",
+    "homeScore": "110",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-04-08 22:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Mavericks",
+    "homeScore": "112",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-04-08 21:30:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "112",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-04-08 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "136",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-04-08 19:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Hawks",
+    "homeScore": "122",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-04-08 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "132",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-04-08 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Bucks",
+    "homeScore": "137",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-04-07 23:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Rockets",
+    "homeScore": "105",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-04-07 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Thunder",
+    "homeScore": "87",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-04-07 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Mavericks",
+    "homeScore": "116",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-04-07 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Kings",
+    "homeScore": "110",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-04-07 20:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Hornets",
+    "homeScore": "113",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-04-07 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Jazz",
+    "homeScore": "156",
+    "awayScore": "137"
+  },
+  {
+    "dateTime": "2026-04-07 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Bucks",
+    "homeScore": "96",
+    "awayScore": "90"
+  },
+  {
+    "dateTime": "2026-04-07 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Heat",
+    "homeScore": "121",
+    "awayScore": "95"
+  },
+  {
+    "dateTime": "2026-04-07 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Bulls",
+    "homeScore": "98",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-04-07 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "104",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-04-06 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "137",
+    "awayScore": "132"
+  },
+  {
+    "dateTime": "2026-04-06 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "126",
+    "awayScore": "142"
+  },
+  {
+    "dateTime": "2026-04-06 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "76ers",
+    "homeScore": "115",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-04-06 19:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Knicks",
+    "homeScore": "105",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-04-06 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Pistons",
+    "homeScore": "123",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-04-05 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Rockets",
+    "homeScore": "116",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-04-05 21:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Clippers",
+    "homeScore": "109",
+    "awayScore": "138"
+  },
+  {
+    "dateTime": "2026-04-05 19:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Lakers",
+    "homeScore": "134",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-04-05 19:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Hornets",
+    "homeScore": "108",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-04-05 19:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Magic",
+    "homeScore": "108",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-04-05 19:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Jazz",
+    "homeScore": "146",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-04-05 18:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Pacers",
+    "homeScore": "117",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-04-05 15:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Raptors",
+    "homeScore": "115",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-04-05 15:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Wizards",
+    "homeScore": "121",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-04-05 15:30:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Suns",
+    "homeScore": "110",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-04-05 15:30:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "131",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-04-04 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Pistons",
+    "homeScore": "93",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-04-04 15:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Wizards",
+    "homeScore": "152",
+    "awayScore": "136"
+  },
+  {
+    "dateTime": "2026-04-04 15:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Spurs",
+    "homeScore": "136",
+    "awayScore": "134"
+  },
+  {
+    "dateTime": "2026-04-03 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Pelicans",
+    "homeScore": "117",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-04-03 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Magic",
+    "homeScore": "127",
+    "awayScore": "138"
+  },
+  {
+    "dateTime": "2026-04-03 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Jazz",
+    "homeScore": "140",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-04-03 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Raptors",
+    "homeScore": "96",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-04-03 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Celtics",
+    "homeScore": "101",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-04-03 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Hawks",
+    "homeScore": "107",
+    "awayScore": "141"
+  },
+  {
+    "dateTime": "2026-04-03 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Bulls",
+    "homeScore": "136",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-04-03 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Pacers",
+    "homeScore": "129",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-04-03 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "115",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-04-02 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Spurs",
+    "homeScore": "99",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-04-02 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "111",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-04-02 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Pelicans",
+    "homeScore": "118",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-04-02 21:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Lakers",
+    "homeScore": "139",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-04-02 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Suns",
+    "homeScore": "127",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-04-02 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "113",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-04-01 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Spurs",
+    "homeScore": "113",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-04-01 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Nuggets",
+    "homeScore": "117",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-04-01 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Knicks",
+    "homeScore": "119",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-04-01 20:00:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Kings",
+    "homeScore": "115",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-04-01 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Pacers",
+    "homeScore": "126",
+    "awayScore": "145"
+  },
+  {
+    "dateTime": "2026-04-01 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Bucks",
+    "homeScore": "119",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-04-01 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Celtics",
+    "homeScore": "129",
+    "awayScore": "147"
+  },
+  {
+    "dateTime": "2026-04-01 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "76ers",
+    "homeScore": "131",
+    "awayScore": "153"
+  },
+  {
+    "dateTime": "2026-04-01 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Hawks",
+    "homeScore": "101",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-03-31 23:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "104",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-31 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "127",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-03-31 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Mavericks",
+    "homeScore": "123",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-31 20:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Raptors",
+    "homeScore": "127",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-03-31 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Knicks",
+    "homeScore": "111",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-03-31 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Hornets",
+    "homeScore": "86",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-03-31 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Suns",
+    "homeScore": "115",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-30 22:00:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Wizards",
+    "homeScore": "120",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-03-30 21:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Pistons",
+    "homeScore": "114",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-30 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "113",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-03-30 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "94",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-03-30 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Suns",
+    "homeScore": "105",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-03-30 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Bulls",
+    "homeScore": "129",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-30 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Celtics",
+    "homeScore": "112",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-03-30 19:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "76ers",
+    "homeScore": "119",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-29 22:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Warriors",
+    "homeScore": "116",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-03-29 19:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Knicks",
+    "homeScore": "111",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-03-29 19:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Rockets",
+    "homeScore": "102",
+    "awayScore": "134"
+  },
+  {
+    "dateTime": "2026-03-29 18:00:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Kings",
+    "homeScore": "116",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-29 18:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Celtics",
+    "homeScore": "99",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-29 18:00:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Magic",
+    "homeScore": "139",
+    "awayScore": "87"
+  },
+  {
+    "dateTime": "2026-03-29 18:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Wizards",
+    "homeScore": "123",
+    "awayScore": "88"
+  },
+  {
+    "dateTime": "2026-03-29 17:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Heat",
+    "homeScore": "135",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-03-29 15:30:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Clippers",
+    "homeScore": "113",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-03-28 22:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Jazz",
+    "homeScore": "134",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-28 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Bulls",
+    "homeScore": "125",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-03-28 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Kings",
+    "homeScore": "123",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-03-28 18:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "76ers",
+    "homeScore": "114",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-03-28 17:30:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Pistons",
+    "homeScore": "87",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-28 15:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Spurs",
+    "homeScore": "95",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-03-27 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Nets",
+    "homeScore": "116",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-27 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Wizards",
+    "homeScore": "131",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-03-27 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Mavericks",
+    "homeScore": "93",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-03-27 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Jazz",
+    "homeScore": "135",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-03-27 20:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Pelicans",
+    "homeScore": "119",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-03-27 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Rockets",
+    "homeScore": "109",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-03-27 20:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Bulls",
+    "homeScore": "131",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-03-27 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Hawks",
+    "homeScore": "109",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-03-27 19:30:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Heat",
+    "homeScore": "149",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-03-27 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Clippers",
+    "homeScore": "113",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-26 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Knicks",
+    "homeScore": "114",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-03-26 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Pelicans",
+    "homeScore": "129",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-03-26 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Kings",
+    "homeScore": "121",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-03-25 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Raptors",
+    "homeScore": "119",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-03-25 22:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Mavericks",
+    "homeScore": "142",
+    "awayScore": "135"
+  },
+  {
+    "dateTime": "2026-03-25 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Nets",
+    "homeScore": "109",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-03-25 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Bucks",
+    "homeScore": "130",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-25 21:30:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Rockets",
+    "homeScore": "110",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-03-25 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Wizards",
+    "homeScore": "110",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-03-25 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Spurs",
+    "homeScore": "98",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-03-25 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Thunder",
+    "homeScore": "119",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-25 19:30:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Heat",
+    "homeScore": "103",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-03-25 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Hawks",
+    "homeScore": "129",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-03-25 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Lakers",
+    "homeScore": "130",
+    "awayScore": "137"
+  },
+  {
+    "dateTime": "2026-03-25 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Bulls",
+    "homeScore": "157",
+    "awayScore": "137"
+  },
+  {
+    "dateTime": "2026-03-24 23:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Nuggets",
+    "homeScore": "123",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-03-24 20:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Magic",
+    "homeScore": "136",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-03-24 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Pelicans",
+    "homeScore": "121",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-03-24 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Kings",
+    "homeScore": "134",
+    "awayScore": "90"
+  },
+  {
+    "dateTime": "2026-03-23 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Bucks",
+    "homeScore": "129",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-03-23 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Nets",
+    "homeScore": "134",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-23 21:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Warriors",
+    "homeScore": "131",
+    "awayScore": "137"
+  },
+  {
+    "dateTime": "2026-03-23 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Raptors",
+    "homeScore": "127",
+    "awayScore": "143"
+  },
+  {
+    "dateTime": "2026-03-23 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Rockets",
+    "homeScore": "132",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-03-23 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "146",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-03-23 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Lakers",
+    "homeScore": "113",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-23 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Pacers",
+    "homeScore": "126",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-03-23 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Thunder",
+    "homeScore": "103",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-03-23 19:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Spurs",
+    "homeScore": "111",
+    "awayScore": "136"
+  },
+  {
+    "dateTime": "2026-03-22 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Raptors",
+    "homeScore": "120",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-03-22 20:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "92",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-03-22 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Wizards",
+    "homeScore": "145",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-03-22 18:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Nets",
+    "homeScore": "126",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-03-22 17:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "128",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-03-21 22:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Bucks",
+    "homeScore": "105",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-03-21 21:30:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "76ers",
+    "homeScore": "116",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-03-21 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Clippers",
+    "homeScore": "131",
+    "awayScore": "138"
+  },
+  {
+    "dateTime": "2026-03-21 20:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Warriors",
+    "homeScore": "126",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-21 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Heat",
+    "homeScore": "123",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-03-21 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Pacers",
+    "homeScore": "134",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-03-21 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "124",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-03-21 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Lakers",
+    "homeScore": "104",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-03-21 19:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "106",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-21 17:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Thunder",
+    "homeScore": "111",
+    "awayScore": "132"
+  },
+  {
+    "dateTime": "2026-03-20 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Raptors",
+    "homeScore": "121",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-03-20 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Hawks",
+    "homeScore": "117",
+    "awayScore": "95"
+  },
+  {
+    "dateTime": "2026-03-20 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Celtics",
+    "homeScore": "112",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-03-20 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "104",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-03-20 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Knicks",
+    "homeScore": "92",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-03-20 19:30:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Warriors",
+    "homeScore": "115",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-03-19 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "76ers",
+    "homeScore": "118",
+    "awayScore": "139"
+  },
+  {
+    "dateTime": "2026-03-19 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Bucks",
+    "homeScore": "128",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-03-19 20:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Lakers",
+    "homeScore": "126",
+    "awayScore": "134"
+  },
+  {
+    "dateTime": "2026-03-19 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "110",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-03-19 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Clippers",
+    "homeScore": "105",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-19 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Suns",
+    "homeScore": "101",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-03-19 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Magic",
+    "homeScore": "130",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-19 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Pistons",
+    "homeScore": "95",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-03-18 21:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Lakers",
+    "homeScore": "116",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-03-18 20:30:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Nuggets",
+    "homeScore": "125",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-03-18 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Hawks",
+    "homeScore": "120",
+    "awayScore": "135"
+  },
+  {
+    "dateTime": "2026-03-18 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Raptors",
+    "homeScore": "109",
+    "awayScore": "139"
+  },
+  {
+    "dateTime": "2026-03-18 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Jazz",
+    "homeScore": "147",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-18 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Clippers",
+    "homeScore": "124",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-18 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Thunder",
+    "homeScore": "92",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-03-18 19:30:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "119",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-03-18 19:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Warriors",
+    "homeScore": "120",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-17 22:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "76ers",
+    "homeScore": "124",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-03-17 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Spurs",
+    "homeScore": "104",
+    "awayScore": "132"
+  },
+  {
+    "dateTime": "2026-03-17 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "116",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-03-17 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Suns",
+    "homeScore": "116",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-03-17 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Pacers",
+    "homeScore": "136",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-17 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Heat",
+    "homeScore": "136",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-03-17 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Thunder",
+    "homeScore": "108",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-03-17 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Pistons",
+    "homeScore": "117",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-03-16 22:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Spurs",
+    "homeScore": "115",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-03-16 21:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Lakers",
+    "homeScore": "92",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-03-16 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "132",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-03-16 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Mavericks",
+    "homeScore": "129",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-16 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "95",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-16 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Suns",
+    "homeScore": "120",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-03-16 19:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Magic",
+    "homeScore": "124",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-03-16 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Warriors",
+    "homeScore": "117",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-03-15 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Jazz",
+    "homeScore": "116",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-15 20:00:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Warriors",
+    "homeScore": "110",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-03-15 18:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "109",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-03-15 15:30:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Mavericks",
+    "homeScore": "120",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-03-15 15:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Pistons",
+    "homeScore": "119",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-03-15 15:30:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Pacers",
+    "homeScore": "134",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-03-15 13:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "116",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-03-14 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Kings",
+    "homeScore": "109",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-03-14 20:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Nuggets",
+    "homeScore": "127",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-03-14 20:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Magic",
+    "homeScore": "117",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-03-14 18:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Wizards",
+    "homeScore": "111",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-03-14 15:30:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Hornets",
+    "homeScore": "115",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-03-14 15:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Bucks",
+    "homeScore": "122",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-14 13:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Nets",
+    "homeScore": "104",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-03-13 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Bulls",
+    "homeScore": "119",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-03-13 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "117",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-03-13 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Jazz",
+    "homeScore": "124",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-13 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Pelicans",
+    "homeScore": "107",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-03-13 19:30:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "126",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-13 19:30:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Knicks",
+    "homeScore": "92",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-03-13 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Suns",
+    "homeScore": "122",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-03-13 19:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "105",
+    "awayScore": "138"
+  },
+  {
+    "dateTime": "2026-03-12 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Bulls",
+    "homeScore": "142",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-03-12 21:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Celtics",
+    "homeScore": "104",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-03-12 21:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Nuggets",
+    "homeScore": "131",
+    "awayScore": "136"
+  },
+  {
+    "dateTime": "2026-03-12 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Mavericks",
+    "homeScore": "112",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-03-12 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Nets",
+    "homeScore": "108",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-03-12 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Bucks",
+    "homeScore": "112",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-03-12 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "76ers",
+    "homeScore": "131",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-12 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Suns",
+    "homeScore": "108",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-03-12 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Wizards",
+    "homeScore": "136",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-03-11 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "153",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-03-11 22:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Rockets",
+    "homeScore": "129",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-03-11 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Hornets",
+    "homeScore": "109",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-03-11 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Knicks",
+    "homeScore": "117",
+    "awayScore": "134"
+  },
+  {
+    "dateTime": "2026-03-11 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Raptors",
+    "homeScore": "122",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-11 19:30:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "128",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-03-10 23:00:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "120",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-03-10 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Bulls",
+    "homeScore": "124",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-03-10 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Hornets",
+    "homeScore": "101",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-03-10 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Pacers",
+    "homeScore": "114",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-10 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Raptors",
+    "homeScore": "113",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-10 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Suns",
+    "homeScore": "114",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-03-10 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Celtics",
+    "homeScore": "125",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-03-10 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Pistons",
+    "homeScore": "100",
+    "awayScore": "138"
+  },
+  {
+    "dateTime": "2026-03-10 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Wizards",
+    "homeScore": "150",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-03-10 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Mavericks",
+    "homeScore": "124",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-03-10 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "139",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-03-09 22:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Knicks",
+    "homeScore": "126",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-03-09 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Warriors",
+    "homeScore": "119",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-03-09 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "126",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-03-09 19:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Nuggets",
+    "homeScore": "129",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-03-09 19:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "76ers",
+    "homeScore": "115",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-03-08 22:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Hornets",
+    "homeScore": "111",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-08 21:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Pacers",
+    "homeScore": "131",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-08 21:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Bulls",
+    "homeScore": "126",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-08 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Magic",
+    "homeScore": "91",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-03-08 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Rockets",
+    "homeScore": "145",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-03-08 19:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Wizards",
+    "homeScore": "138",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-03-08 18:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Pistons",
+    "homeScore": "121",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-08 18:00:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Mavericks",
+    "homeScore": "122",
+    "awayScore": "92"
+  },
+  {
+    "dateTime": "2026-03-08 15:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Knicks",
+    "homeScore": "110",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-03-08 13:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Celtics",
+    "homeScore": "98",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-07 20:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Warriors",
+    "homeScore": "104",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-03-07 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Clippers",
+    "homeScore": "120",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-03-07 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Jazz",
+    "homeScore": "113",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-07 18:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Nets",
+    "homeScore": "105",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-03-07 18:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "76ers",
+    "homeScore": "125",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-03-07 15:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Magic",
+    "homeScore": "92",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-03-06 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Pacers",
+    "homeScore": "128",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-03-06 21:30:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Clippers",
+    "homeScore": "116",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-03-06 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Knicks",
+    "homeScore": "103",
+    "awayScore": "142"
+  },
+  {
+    "dateTime": "2026-03-06 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Pelicans",
+    "homeScore": "118",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-03-06 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "106",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-03-06 19:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Mavericks",
+    "homeScore": "120",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-03-06 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Heat",
+    "homeScore": "120",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-03-05 22:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Lakers",
+    "homeScore": "120",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-03-05 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Pelicans",
+    "homeScore": "123",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-03-05 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Bulls",
+    "homeScore": "103",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-03-05 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Raptors",
+    "homeScore": "115",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-03-05 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Pistons",
+    "homeScore": "121",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-03-05 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Nets",
+    "homeScore": "126",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-05 19:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Warriors",
+    "homeScore": "113",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-03-05 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Mavericks",
+    "homeScore": "115",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-05 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Jazz",
+    "homeScore": "112",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-03-04 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Pacers",
+    "homeScore": "130",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-03-04 21:30:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Hawks",
+    "homeScore": "113",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-03-04 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "114",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-03-04 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Hornets",
+    "homeScore": "89",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-03-04 19:30:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Jazz",
+    "homeScore": "106",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-03-04 19:00:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Thunder",
+    "homeScore": "100",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-03-03 23:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Suns",
+    "homeScore": "103",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-03 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Pelicans",
+    "homeScore": "110",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-03-03 20:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Spurs",
+    "homeScore": "91",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-03-03 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Thunder",
+    "homeScore": "108",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-03-03 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "117",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-03-03 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Nets",
+    "homeScore": "124",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-03-03 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Knicks",
+    "homeScore": "95",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-03-03 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Mavericks",
+    "homeScore": "117",
+    "awayScore": "90"
+  },
+  {
+    "dateTime": "2026-03-03 19:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Pistons",
+    "homeScore": "113",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-03 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Wizards",
+    "homeScore": "126",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-03-02 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Clippers",
+    "homeScore": "101",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-03-02 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Nuggets",
+    "homeScore": "125",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-03-02 19:30:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Celtics",
+    "homeScore": "81",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-03-02 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Rockets",
+    "homeScore": "118",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-03-01 21:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Kings",
+    "homeScore": "128",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-03-01 21:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Pelicans",
+    "homeScore": "137",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-03-01 20:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "76ers",
+    "homeScore": "114",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-03-01 20:00:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Thunder",
+    "homeScore": "87",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-03-01 18:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "135",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-03-01 18:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Pistons",
+    "homeScore": "92",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-03-01 17:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "106",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-03-01 15:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "102",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-03-01 15:30:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Bucks",
+    "homeScore": "120",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-03-01 15:30:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "108",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-03-01 13:00:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Spurs",
+    "homeScore": "114",
+    "awayScore": "89"
+  },
+  {
+    "dateTime": "2026-02-28 21:30:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Pelicans",
+    "homeScore": "105",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-28 20:30:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Lakers",
+    "homeScore": "101",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-02-28 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Raptors",
+    "homeScore": "125",
+    "awayScore": "134"
+  },
+  {
+    "dateTime": "2026-02-28 15:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Rockets",
+    "homeScore": "115",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-02-28 13:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "109",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-02-27 21:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Nuggets",
+    "homeScore": "127",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-02-27 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "105",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-02-27 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Knicks",
+    "homeScore": "98",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-02-27 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Nets",
+    "homeScore": "148",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-02-27 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "122",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-02-26 22:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "88",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-02-26 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Lakers",
+    "homeScore": "113",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-02-26 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Pelicans",
+    "homeScore": "118",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-02-26 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Kings",
+    "homeScore": "121",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-02-26 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "112",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-02-26 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Wizards",
+    "homeScore": "126",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-02-26 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Spurs",
+    "homeScore": "110",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-02-26 19:30:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Rockets",
+    "homeScore": "108",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-02-26 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Hornets",
+    "homeScore": "109",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-02-26 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Heat",
+    "homeScore": "124",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-02-25 22:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Celtics",
+    "homeScore": "103",
+    "awayScore": "84"
+  },
+  {
+    "dateTime": "2026-02-25 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Kings",
+    "homeScore": "128",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-02-25 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "118",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-02-25 19:30:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Thunder",
+    "homeScore": "124",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-02-25 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Spurs",
+    "homeScore": "107",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-02-25 19:30:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Warriors",
+    "homeScore": "112",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-02-24 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Magic",
+    "homeScore": "109",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-02-24 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "121",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-02-24 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Celtics",
+    "homeScore": "81",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-02-24 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Hornets",
+    "homeScore": "99",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-02-24 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Heat",
+    "homeScore": "128",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-02-24 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Warriors",
+    "homeScore": "113",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-02-24 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Wizards",
+    "homeScore": "119",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-02-24 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Mavericks",
+    "homeScore": "114",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-02-24 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Thunder",
+    "homeScore": "107",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-02-24 19:30:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Knicks",
+    "homeScore": "109",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-02-24 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "76ers",
+    "homeScore": "114",
+    "awayScore": "135"
+  },
+  {
+    "dateTime": "2026-02-23 21:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Jazz",
+    "homeScore": "125",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-02-23 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Kings",
+    "homeScore": "114",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-02-23 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Spurs",
+    "homeScore": "103",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-02-22 21:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Magic",
+    "homeScore": "109",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-02-22 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Knicks",
+    "homeScore": "99",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-02-22 20:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "77",
+    "awayScore": "92"
+  },
+  {
+    "dateTime": "2026-02-22 19:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "76ers",
+    "homeScore": "108",
+    "awayScore": "135"
+  },
+  {
+    "dateTime": "2026-02-22 18:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Celtics",
+    "homeScore": "89",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-02-22 18:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Hornets",
+    "homeScore": "112",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-02-22 17:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Mavericks",
+    "homeScore": "130",
+    "awayScore": "134"
+  },
+  {
+    "dateTime": "2026-02-22 15:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Nets",
+    "homeScore": "115",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-02-22 15:30:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Raptors",
+    "homeScore": "94",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-02-22 15:30:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Nuggets",
+    "homeScore": "128",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-02-22 13:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "121",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-02-21 20:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Rockets",
+    "homeScore": "108",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-02-21 20:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "136",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-02-21 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Pistons",
+    "homeScore": "110",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-02-21 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Kings",
+    "homeScore": "139",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-02-21 19:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "76ers",
+    "homeScore": "126",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-02-21 17:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Magic",
+    "homeScore": "113",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-02-20 22:00:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Clippers",
+    "homeScore": "125",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-02-20 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Nuggets",
+    "homeScore": "103",
+    "awayScore": "157"
+  },
+  {
+    "dateTime": "2026-02-20 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Bucks",
+    "homeScore": "118",
+    "awayScore": "139"
+  },
+  {
+    "dateTime": "2026-02-20 20:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Nets",
+    "homeScore": "105",
+    "awayScore": "86"
+  },
+  {
+    "dateTime": "2026-02-20 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Heat",
+    "homeScore": "97",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-02-20 19:30:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Mavericks",
+    "homeScore": "122",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-02-20 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "113",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-02-20 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Pacers",
+    "homeScore": "131",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-02-20 19:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Jazz",
+    "homeScore": "123",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-02-19 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Nuggets",
+    "homeScore": "115",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-02-19 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Celtics",
+    "homeScore": "110",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-02-19 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Magic",
+    "homeScore": "94",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-02-19 20:30:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Suns",
+    "homeScore": "121",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-02-19 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Raptors",
+    "homeScore": "101",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-02-19 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Pistons",
+    "homeScore": "111",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-02-19 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Rockets",
+    "homeScore": "101",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-02-19 19:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Nets",
+    "homeScore": "112",
+    "awayScore": "84"
+  },
+  {
+    "dateTime": "2026-02-19 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Hawks",
+    "homeScore": "107",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-02-19 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Pacers",
+    "homeScore": "112",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-02-15 19:10:00",
+    "homeTeamName": "Stripes",
+    "awayTeamName": "Stars",
+    "homeScore": "21",
+    "awayScore": "47"
+  },
+  {
+    "dateTime": "2026-02-15 18:25:00",
+    "homeTeamName": "Stripes",
+    "awayTeamName": "World",
+    "homeScore": "48",
+    "awayScore": "45"
+  },
+  {
+    "dateTime": "2026-02-15 17:55:00",
+    "homeTeamName": "Stripes",
+    "awayTeamName": "Stars",
+    "homeScore": "42",
+    "awayScore": "40"
+  },
+  {
+    "dateTime": "2026-02-15 17:00:00",
+    "homeTeamName": "Stars",
+    "awayTeamName": "World",
+    "homeScore": "37",
+    "awayScore": "35"
+  },
+  {
+    "dateTime": "2026-02-13 22:35:00",
+    "homeTeamName": "Team Melo",
+    "awayTeamName": "Team Vince",
+    "homeScore": "24",
+    "awayScore": "25"
+  },
+  {
+    "dateTime": "2026-02-13 21:55:00",
+    "homeTeamName": "Team T-Mac",
+    "awayTeamName": "Team Vince",
+    "homeScore": "36",
+    "awayScore": "41"
+  },
+  {
+    "dateTime": "2026-02-13 21:00:00",
+    "homeTeamName": "Team Melo",
+    "awayTeamName": "Team Austin",
+    "homeScore": "40",
+    "awayScore": "34"
+  },
+  {
+    "dateTime": "2026-02-12 22:00:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Mavericks",
+    "homeScore": "124",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-02-12 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "119",
+    "awayScore": "135"
+  },
+  {
+    "dateTime": "2026-02-12 19:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Bucks",
+    "homeScore": "93",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-02-11 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Spurs",
+    "homeScore": "113",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-02-11 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Thunder",
+    "homeScore": "109",
+    "awayScore": "136"
+  },
+  {
+    "dateTime": "2026-02-11 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Kings",
+    "homeScore": "121",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-02-11 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "122",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-02-11 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Clippers",
+    "homeScore": "102",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-02-11 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "133",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-02-11 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Heat",
+    "homeScore": "111",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-02-11 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Bulls",
+    "homeScore": "124",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-02-11 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Pacers",
+    "homeScore": "110",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-11 19:30:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Knicks",
+    "homeScore": "89",
+    "awayScore": "138"
+  },
+  {
+    "dateTime": "2026-02-11 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Pistons",
+    "homeScore": "95",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-02-11 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Hawks",
+    "homeScore": "110",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-02-11 19:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Wizards",
+    "homeScore": "138",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-02-11 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Bucks",
+    "homeScore": "108",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-02-10 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Spurs",
+    "homeScore": "108",
+    "awayScore": "136"
+  },
+  {
+    "dateTime": "2026-02-10 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Mavericks",
+    "homeScore": "120",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-02-10 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Clippers",
+    "homeScore": "102",
+    "awayScore": "95"
+  },
+  {
+    "dateTime": "2026-02-10 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Pacers",
+    "homeScore": "134",
+    "awayScore": "137"
+  },
+  {
+    "dateTime": "2026-02-09 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "114",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-02-09 22:00:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Thunder",
+    "homeScore": "110",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-02-09 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "76ers",
+    "homeScore": "135",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-02-09 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "117",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-02-09 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Hawks",
+    "homeScore": "138",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-02-09 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Kings",
+    "homeScore": "120",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-02-09 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Bulls",
+    "homeScore": "123",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-09 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Jazz",
+    "homeScore": "111",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-09 19:30:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Bucks",
+    "homeScore": "118",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-02-09 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Pistons",
+    "homeScore": "104",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-02-08 15:00:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Pacers",
+    "homeScore": "122",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-02-08 15:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Clippers",
+    "homeScore": "96",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-08 14:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Heat",
+    "homeScore": "101",
+    "awayScore": "132"
+  },
+  {
+    "dateTime": "2026-02-08 12:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Knicks",
+    "homeScore": "89",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-02-07 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "122",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-07 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "126",
+    "awayScore": "132"
+  },
+  {
+    "dateTime": "2026-02-07 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "76ers",
+    "homeScore": "103",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-02-07 20:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Warriors",
+    "homeScore": "105",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-02-07 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Nuggets",
+    "homeScore": "120",
+    "awayScore": "136"
+  },
+  {
+    "dateTime": "2026-02-07 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Hornets",
+    "homeScore": "119",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-02-07 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Jazz",
+    "homeScore": "120",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-02-07 18:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Mavericks",
+    "homeScore": "138",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-02-07 15:30:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Rockets",
+    "homeScore": "106",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-02-07 15:00:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Wizards",
+    "homeScore": "127",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-02-06 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "135",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-06 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Clippers",
+    "homeScore": "111",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-02-06 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Pacers",
+    "homeScore": "105",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-02-06 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Pelicans",
+    "homeScore": "115",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-02-06 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Heat",
+    "homeScore": "98",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-02-06 19:30:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Knicks",
+    "homeScore": "118",
+    "awayScore": "80"
+  },
+  {
+    "dateTime": "2026-02-05 22:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Warriors",
+    "homeScore": "97",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-02-05 22:00:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "76ers",
+    "homeScore": "119",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-05 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Spurs",
+    "homeScore": "123",
+    "awayScore": "135"
+  },
+  {
+    "dateTime": "2026-02-05 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Hornets",
+    "homeScore": "99",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-02-05 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Jazz",
+    "homeScore": "121",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-02-05 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Bulls",
+    "homeScore": "123",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-02-05 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Wizards",
+    "homeScore": "117",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-02-05 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Nets",
+    "homeScore": "118",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-02-04 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "91",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-02-04 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "125",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-02-04 21:30:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Thunder",
+    "homeScore": "116",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-02-04 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Celtics",
+    "homeScore": "93",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-02-04 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Pelicans",
+    "homeScore": "141",
+    "awayScore": "137"
+  },
+  {
+    "dateTime": "2026-02-04 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "126",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-02-04 19:00:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Nuggets",
+    "homeScore": "134",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-02-03 23:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Suns",
+    "homeScore": "125",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-02-03 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "76ers",
+    "homeScore": "94",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-02-03 20:00:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Celtics",
+    "homeScore": "100",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-02-03 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Bulls",
+    "homeScore": "131",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-02-03 20:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Magic",
+    "homeScore": "128",
+    "awayScore": "92"
+  },
+  {
+    "dateTime": "2026-02-03 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Lakers",
+    "homeScore": "109",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-02-03 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Hawks",
+    "homeScore": "115",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-02-03 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Nuggets",
+    "homeScore": "124",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-02-03 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Jazz",
+    "homeScore": "122",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-02-03 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Knicks",
+    "homeScore": "101",
+    "awayScore": "132"
+  },
+  {
+    "dateTime": "2026-02-02 22:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "76ers",
+    "homeScore": "113",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-02-02 19:30:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "137",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-02-02 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Rockets",
+    "homeScore": "114",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-02-02 15:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Pelicans",
+    "homeScore": "102",
+    "awayScore": "95"
+  },
+  {
+    "dateTime": "2026-02-01 21:30:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Thunder",
+    "homeScore": "111",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-02-01 21:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Magic",
+    "homeScore": "112",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-02-01 21:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "111",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-02-01 20:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Clippers",
+    "homeScore": "93",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-02-01 19:00:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Lakers",
+    "homeScore": "112",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-02-01 18:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Nets",
+    "homeScore": "130",
+    "awayScore": "77"
+  },
+  {
+    "dateTime": "2026-02-01 18:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Bulls",
+    "homeScore": "134",
+    "awayScore": "91"
+  },
+  {
+    "dateTime": "2026-02-01 18:00:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Jazz",
+    "homeScore": "107",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-02-01 18:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Kings",
+    "homeScore": "116",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-02-01 15:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Bucks",
+    "homeScore": "107",
+    "awayScore": "79"
+  },
+  {
+    "dateTime": "2026-01-31 20:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Mavericks",
+    "homeScore": "111",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-01-31 20:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Bulls",
+    "homeScore": "118",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-01-31 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "114",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-01-31 19:30:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Pelicans",
+    "homeScore": "124",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-31 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Hawks",
+    "homeScore": "129",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-01-31 12:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Spurs",
+    "homeScore": "111",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-01-30 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Pistons",
+    "homeScore": "124",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-01-30 21:30:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Nets",
+    "homeScore": "99",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-01-30 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "126",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-01-30 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Clippers",
+    "homeScore": "122",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-01-30 19:30:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Raptors",
+    "homeScore": "130",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-01-30 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Kings",
+    "homeScore": "112",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-01-30 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "127",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-01-30 19:30:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "114",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-01-30 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Lakers",
+    "homeScore": "111",
+    "awayScore": "142"
+  },
+  {
+    "dateTime": "2026-01-29 21:30:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Thunder",
+    "homeScore": "123",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-29 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Nets",
+    "homeScore": "107",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-01-29 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Pistons",
+    "homeScore": "114",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-01-29 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Hornets",
+    "homeScore": "121",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-01-29 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Heat",
+    "homeScore": "113",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-01-29 20:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Rockets",
+    "homeScore": "86",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-01-29 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Kings",
+    "homeScore": "113",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-29 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Bucks",
+    "homeScore": "109",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-01-28 21:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Spurs",
+    "homeScore": "99",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-28 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Warriors",
+    "homeScore": "124",
+    "awayScore": "140"
+  },
+  {
+    "dateTime": "2026-01-28 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "105",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-01-28 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Hornets",
+    "homeScore": "97",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-28 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Hawks",
+    "homeScore": "106",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-28 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Magic",
+    "homeScore": "124",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-01-28 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Knicks",
+    "homeScore": "92",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-01-28 19:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Lakers",
+    "homeScore": "129",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-01-28 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Bulls",
+    "homeScore": "113",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-27 22:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Clippers",
+    "homeScore": "103",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-27 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Pistons",
+    "homeScore": "107",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-01-27 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Nets",
+    "homeScore": "106",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-01-27 20:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Bucks",
+    "homeScore": "139",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-27 20:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Pelicans",
+    "homeScore": "104",
+    "awayScore": "95"
+  },
+  {
+    "dateTime": "2026-01-27 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Kings",
+    "homeScore": "103",
+    "awayScore": "87"
+  },
+  {
+    "dateTime": "2026-01-27 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "115",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-26 21:30:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Warriors",
+    "homeScore": "108",
+    "awayScore": "83"
+  },
+  {
+    "dateTime": "2026-01-26 20:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "102",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-01-26 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Lakers",
+    "homeScore": "118",
+    "awayScore": "129"
+  },
+  {
+    "dateTime": "2026-01-26 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "108",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-01-26 19:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Magic",
+    "homeScore": "114",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-01-26 15:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "76ers",
+    "homeScore": "130",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-01-26 13:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Pacers",
+    "homeScore": "132",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-01-25 21:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Nets",
+    "homeScore": "126",
+    "awayScore": "89"
+  },
+  {
+    "dateTime": "2026-01-25 20:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Heat",
+    "homeScore": "102",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-25 19:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Raptors",
+    "homeScore": "101",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-01-25 19:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Pelicans",
+    "homeScore": "95",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-01-25 17:30:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Warriors",
+    "homeScore": "85",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-25 15:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Kings",
+    "homeScore": "139",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-01-24 21:30:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Heat",
+    "homeScore": "116",
+    "awayScore": "147"
+  },
+  {
+    "dateTime": "2026-01-24 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Lakers",
+    "homeScore": "110",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-01-24 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Celtics",
+    "homeScore": "114",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-24 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "105",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-01-24 15:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Knicks",
+    "homeScore": "109",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-24 12:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Wizards",
+    "homeScore": "119",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-23 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Raptors",
+    "homeScore": "98",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-23 21:30:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Nuggets",
+    "homeScore": "100",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-01-23 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Pelicans",
+    "homeScore": "127",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-01-23 20:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Pacers",
+    "homeScore": "114",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-23 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Suns",
+    "homeScore": "110",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-01-23 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Celtics",
+    "homeScore": "126",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-01-23 19:30:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Kings",
+    "homeScore": "123",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-01-23 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Rockets",
+    "homeScore": "104",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-22 22:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Lakers",
+    "homeScore": "112",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-01-22 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Heat",
+    "homeScore": "127",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-22 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Spurs",
+    "homeScore": "109",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-01-22 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Bulls",
+    "homeScore": "115",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-01-22 19:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Warriors",
+    "homeScore": "123",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-22 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Hornets",
+    "homeScore": "97",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-01-22 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Rockets",
+    "homeScore": "128",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-22 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Nuggets",
+    "homeScore": "97",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-01-21 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Raptors",
+    "homeScore": "109",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-21 21:30:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Thunder",
+    "homeScore": "102",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-21 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Hawks",
+    "homeScore": "122",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-01-21 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Pistons",
+    "homeScore": "104",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-21 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Pacers",
+    "homeScore": "119",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-01-21 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Nets",
+    "homeScore": "120",
+    "awayScore": "66"
+  },
+  {
+    "dateTime": "2026-01-21 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "87",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-01-20 22:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Lakers",
+    "homeScore": "107",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-20 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Raptors",
+    "homeScore": "127",
+    "awayScore": "145"
+  },
+  {
+    "dateTime": "2026-01-20 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Heat",
+    "homeScore": "117",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-01-20 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "127",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-20 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Clippers",
+    "homeScore": "138",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-20 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Spurs",
+    "homeScore": "111",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-01-20 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Suns",
+    "homeScore": "110",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-01-19 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Heat",
+    "homeScore": "135",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-19 20:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Celtics",
+    "homeScore": "104",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-01-19 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Suns",
+    "homeScore": "117",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-01-19 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Pacers",
+    "homeScore": "113",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-01-19 17:00:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Mavericks",
+    "homeScore": "97",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-19 17:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Jazz",
+    "homeScore": "123",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-19 15:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Clippers",
+    "homeScore": "106",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-19 14:30:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Thunder",
+    "homeScore": "104",
+    "awayScore": "136"
+  },
+  {
+    "dateTime": "2026-01-19 13:00:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Bucks",
+    "homeScore": "110",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-18 21:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Raptors",
+    "homeScore": "110",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-01-18 21:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "110",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-18 20:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Hornets",
+    "homeScore": "87",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-18 19:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Nets",
+    "homeScore": "124",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-01-18 19:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Pelicans",
+    "homeScore": "119",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-18 12:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Magic",
+    "homeScore": "126",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-01-17 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Lakers",
+    "homeScore": "132",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-01-17 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Wizards",
+    "homeScore": "121",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-17 20:30:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Hornets",
+    "homeScore": "136",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-01-17 20:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Thunder",
+    "homeScore": "122",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-01-17 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "126",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-01-17 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Celtics",
+    "homeScore": "106",
+    "awayScore": "132"
+  },
+  {
+    "dateTime": "2026-01-17 19:30:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Pacers",
+    "homeScore": "121",
+    "awayScore": "78"
+  },
+  {
+    "dateTime": "2026-01-17 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Suns",
+    "homeScore": "99",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-01-17 17:00:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Jazz",
+    "homeScore": "138",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-01-16 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Wizards",
+    "homeScore": "128",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-16 21:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "110",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-01-16 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Bulls",
+    "homeScore": "112",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-01-16 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Clippers",
+    "homeScore": "117",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-01-16 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Pelicans",
+    "homeScore": "127",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-01-16 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "115",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-15 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Hornets",
+    "homeScore": "117",
+    "awayScore": "135"
+  },
+  {
+    "dateTime": "2026-01-15 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Knicks",
+    "homeScore": "126",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-01-15 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Hawks",
+    "homeScore": "117",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-01-15 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Jazz",
+    "homeScore": "144",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-15 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Bucks",
+    "homeScore": "119",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-01-15 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Celtics",
+    "homeScore": "114",
+    "awayScore": "119"
+  },
+  {
+    "dateTime": "2026-01-15 19:30:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Thunder",
+    "homeScore": "91",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-15 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Suns",
+    "homeScore": "108",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-01-15 14:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "118",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-14 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Wizards",
+    "homeScore": "119",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-01-14 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Knicks",
+    "homeScore": "112",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-01-14 21:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Nuggets",
+    "homeScore": "109",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-01-14 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Jazz",
+    "homeScore": "128",
+    "awayScore": "126"
+  },
+  {
+    "dateTime": "2026-01-14 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Nets",
+    "homeScore": "116",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-01-14 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Raptors",
+    "homeScore": "101",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-14 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "107",
+    "awayScore": "133"
+  },
+  {
+    "dateTime": "2026-01-13 23:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "119",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-01-13 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Hawks",
+    "homeScore": "141",
+    "awayScore": "116"
+  },
+  {
+    "dateTime": "2026-01-13 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Bulls",
+    "homeScore": "119",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-01-13 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "106",
+    "awayScore": "139"
+  },
+  {
+    "dateTime": "2026-01-13 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Nuggets",
+    "homeScore": "116",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-13 20:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Spurs",
+    "homeScore": "119",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-01-13 19:30:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Suns",
+    "homeScore": "127",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-01-12 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Hornets",
+    "homeScore": "117",
+    "awayScore": "109"
+  },
+  {
+    "dateTime": "2026-01-12 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Lakers",
+    "homeScore": "124",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-12 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Nets",
+    "homeScore": "113",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-01-12 19:30:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Celtics",
+    "homeScore": "98",
+    "awayScore": "96"
+  },
+  {
+    "dateTime": "2026-01-12 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "76ers",
+    "homeScore": "102",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-12 19:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Jazz",
+    "homeScore": "112",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-01-11 21:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Rockets",
+    "homeScore": "111",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-01-11 20:30:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Hawks",
+    "homeScore": "111",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-01-11 20:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Bucks",
+    "homeScore": "108",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-01-11 20:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Wizards",
+    "homeScore": "112",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-01-11 19:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Spurs",
+    "homeScore": "104",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-01-11 19:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Heat",
+    "homeScore": "124",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-11 18:00:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "76ers",
+    "homeScore": "116",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-11 18:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Knicks",
+    "homeScore": "114",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-01-11 15:30:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Nets",
+    "homeScore": "103",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-01-11 15:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Pelicans",
+    "homeScore": "128",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-01-10 21:30:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Hornets",
+    "homeScore": "95",
+    "awayScore": "150"
+  },
+  {
+    "dateTime": "2026-01-10 20:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Spurs",
+    "homeScore": "95",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-01-10 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Mavericks",
+    "homeScore": "125",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-01-10 19:30:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Clippers",
+    "homeScore": "92",
+    "awayScore": "98"
+  },
+  {
+    "dateTime": "2026-01-10 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Heat",
+    "homeScore": "123",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-01-10 13:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "146",
+    "awayScore": "134"
+  },
+  {
+    "dateTime": "2026-01-09 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Bucks",
+    "homeScore": "101",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-01-09 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Kings",
+    "homeScore": "137",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-01-09 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Rockets",
+    "homeScore": "111",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-01-09 21:00:00",
+    "homeTeamName": "Nuggets",
+    "awayTeamName": "Hawks",
+    "homeScore": "87",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-09 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Knicks",
+    "homeScore": "112",
+    "awayScore": "107"
+  },
+  {
+    "dateTime": "2026-01-09 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Thunder",
+    "homeScore": "116",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-09 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Clippers",
+    "homeScore": "105",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-01-09 19:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Raptors",
+    "homeScore": "125",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-09 19:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "76ers",
+    "homeScore": "91",
+    "awayScore": "103"
+  },
+  {
+    "dateTime": "2026-01-09 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Pelicans",
+    "homeScore": "107",
+    "awayScore": "128"
+  },
+  {
+    "dateTime": "2026-01-08 21:00:00",
+    "homeTeamName": "Jazz",
+    "awayTeamName": "Mavericks",
+    "homeScore": "116",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-08 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "131",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-08 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Pacers",
+    "homeScore": "112",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-07 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Bucks",
+    "homeScore": "120",
+    "awayScore": "113"
+  },
+  {
+    "dateTime": "2026-01-07 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Rockets",
+    "homeScore": "103",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-01-07 21:30:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Lakers",
+    "homeScore": "107",
+    "awayScore": "91"
+  },
+  {
+    "dateTime": "2026-01-07 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Suns",
+    "homeScore": "98",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-07 20:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Jazz",
+    "homeScore": "129",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-01-07 19:30:00",
+    "homeTeamName": "Hawks",
+    "awayTeamName": "Pelicans",
+    "homeScore": "117",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-01-07 19:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Magic",
+    "homeScore": "103",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-01-07 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Clippers",
+    "homeScore": "123",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-07 19:00:00",
+    "homeTeamName": "Hornets",
+    "awayTeamName": "Raptors",
+    "homeScore": "96",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-01-07 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Bulls",
+    "homeScore": "108",
+    "awayScore": "93"
+  },
+  {
+    "dateTime": "2026-01-07 19:00:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Wizards",
+    "homeScore": "131",
+    "awayScore": "110"
+  },
+  {
+    "dateTime": "2026-01-07 19:00:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Nuggets",
+    "homeScore": "110",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-06 23:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Mavericks",
+    "homeScore": "98",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-01-06 20:00:00",
+    "homeTeamName": "Grizzlies",
+    "awayTeamName": "Spurs",
+    "homeScore": "106",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-01-06 20:00:00",
+    "homeTeamName": "Timberwolves",
+    "awayTeamName": "Heat",
+    "homeScore": "122",
+    "awayScore": "94"
+  },
+  {
+    "dateTime": "2026-01-06 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Lakers",
+    "homeScore": "103",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-06 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Cavaliers",
+    "homeScore": "116",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-01-06 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Magic",
+    "homeScore": "120",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-05 22:00:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Warriors",
+    "homeScore": "103",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-01-05 22:00:00",
+    "homeTeamName": "Trail Blazers",
+    "awayTeamName": "Jazz",
+    "homeScore": "137",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-05 20:30:00",
+    "homeTeamName": "76ers",
+    "awayTeamName": "Nuggets",
+    "homeScore": "124",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-01-05 20:00:00",
+    "homeTeamName": "Rockets",
+    "awayTeamName": "Suns",
+    "homeScore": "100",
+    "awayScore": "97"
+  },
+  {
+    "dateTime": "2026-01-05 20:00:00",
+    "homeTeamName": "Thunder",
+    "awayTeamName": "Hornets",
+    "homeScore": "97",
+    "awayScore": "124"
+  },
+  {
+    "dateTime": "2026-01-05 19:30:00",
+    "homeTeamName": "Celtics",
+    "awayTeamName": "Bulls",
+    "homeScore": "115",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-01-05 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Hawks",
+    "homeScore": "118",
+    "awayScore": "100"
+  },
+  {
+    "dateTime": "2026-01-05 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Knicks",
+    "homeScore": "121",
+    "awayScore": "90"
+  },
+  {
+    "dateTime": "2026-01-04 21:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "120",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-04 21:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Bucks",
+    "homeScore": "98",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-04 20:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Thunder",
+    "homeScore": "108",
+    "awayScore": "105"
+  },
+  {
+    "dateTime": "2026-01-04 18:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Pelicans",
+    "homeScore": "125",
+    "awayScore": "106"
+  },
+  {
+    "dateTime": "2026-01-04 18:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "115",
+    "awayScore": "141"
+  },
+  {
+    "dateTime": "2026-01-04 15:30:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Nuggets",
+    "homeScore": "127",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-04 15:00:00",
+    "homeTeamName": "Magic",
+    "awayTeamName": "Pacers",
+    "homeScore": "135",
+    "awayScore": "127"
+  },
+  {
+    "dateTime": "2026-01-04 14:00:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Pistons",
+    "homeScore": "110",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-03 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Celtics",
+    "homeScore": "115",
+    "awayScore": "146"
+  },
+  {
+    "dateTime": "2026-01-03 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Jazz",
+    "homeScore": "123",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-03 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "Rockets",
+    "homeScore": "110",
+    "awayScore": "104"
+  },
+  {
+    "dateTime": "2026-01-03 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Hornets",
+    "homeScore": "99",
+    "awayScore": "112"
+  },
+  {
+    "dateTime": "2026-01-03 20:00:00",
+    "homeTeamName": "Spurs",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "110",
+    "awayScore": "115"
+  },
+  {
+    "dateTime": "2026-01-03 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "76ers",
+    "homeScore": "119",
+    "awayScore": "130"
+  },
+  {
+    "dateTime": "2026-01-03 19:30:00",
+    "homeTeamName": "Raptors",
+    "awayTeamName": "Hawks",
+    "homeScore": "134",
+    "awayScore": "117"
+  },
+  {
+    "dateTime": "2026-01-03 17:00:00",
+    "homeTeamName": "Heat",
+    "awayTeamName": "Timberwolves",
+    "homeScore": "115",
+    "awayScore": "125"
+  },
+  {
+    "dateTime": "2026-01-02 22:30:00",
+    "homeTeamName": "Lakers",
+    "awayTeamName": "Grizzlies",
+    "homeScore": "128",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-01-02 22:00:00",
+    "homeTeamName": "Warriors",
+    "awayTeamName": "Thunder",
+    "homeScore": "94",
+    "awayScore": "131"
+  },
+  {
+    "dateTime": "2026-01-02 21:00:00",
+    "homeTeamName": "Suns",
+    "awayTeamName": "Kings",
+    "homeScore": "129",
+    "awayScore": "102"
+  },
+  {
+    "dateTime": "2026-01-02 20:00:00",
+    "homeTeamName": "Bulls",
+    "awayTeamName": "Magic",
+    "homeScore": "121",
+    "awayScore": "114"
+  },
+  {
+    "dateTime": "2026-01-02 20:00:00",
+    "homeTeamName": "Bucks",
+    "awayTeamName": "Hornets",
+    "homeScore": "122",
+    "awayScore": "121"
+  },
+  {
+    "dateTime": "2026-01-02 20:00:00",
+    "homeTeamName": "Pelicans",
+    "awayTeamName": "Trail Blazers",
+    "homeScore": "109",
+    "awayScore": "122"
+  },
+  {
+    "dateTime": "2026-01-02 19:30:00",
+    "homeTeamName": "Cavaliers",
+    "awayTeamName": "Nuggets",
+    "homeScore": "113",
+    "awayScore": "108"
+  },
+  {
+    "dateTime": "2026-01-02 19:30:00",
+    "homeTeamName": "Knicks",
+    "awayTeamName": "Hawks",
+    "homeScore": "99",
+    "awayScore": "111"
+  },
+  {
+    "dateTime": "2026-01-02 19:00:00",
+    "homeTeamName": "Pacers",
+    "awayTeamName": "Spurs",
+    "homeScore": "113",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-01-02 19:00:00",
+    "homeTeamName": "Wizards",
+    "awayTeamName": "Nets",
+    "homeScore": "119",
+    "awayScore": "99"
+  },
+  {
+    "dateTime": "2026-01-01 22:30:00",
+    "homeTeamName": "Clippers",
+    "awayTeamName": "Jazz",
+    "homeScore": "118",
+    "awayScore": "101"
+  },
+  {
+    "dateTime": "2026-01-01 22:00:00",
+    "homeTeamName": "Kings",
+    "awayTeamName": "Celtics",
+    "homeScore": "106",
+    "awayScore": "120"
+  },
+  {
+    "dateTime": "2026-01-01 20:30:00",
+    "homeTeamName": "Mavericks",
+    "awayTeamName": "76ers",
+    "homeScore": "108",
+    "awayScore": "123"
+  },
+  {
+    "dateTime": "2026-01-01 19:00:00",
+    "homeTeamName": "Pistons",
+    "awayTeamName": "Heat",
+    "homeScore": "112",
+    "awayScore": "118"
+  },
+  {
+    "dateTime": "2026-01-01 18:00:00",
+    "homeTeamName": "Nets",
+    "awayTeamName": "Rockets",
+    "homeScore": "96",
+    "awayScore": "120"
+  }
+]}

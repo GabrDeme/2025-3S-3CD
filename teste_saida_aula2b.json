@@ -1,50 +1,29 @@
 {
-  "tema": "Descobrir o comportamento financeiro central do negócio",
-  "problema_financeiro": "O empreendedor não sabe qual é o comportamento financeiro típico do negócio.",
   "calculos": {
-    "receita_diaria": {
-      "media": 466.7083,
-      "mediana": 430.0,
-      "moda": 320.5,
-      "amplitude": 890.0,
-      "variancia": 74356.3845,
-      "desvio_padrao": 272.6837,
-      "minimo": 90.0,
-      "maximo": 980.0
+    "home_scores": {
+      "media": 114.9277,
+      "mediana": 115,
+      "moda": 110,
+      "amplitude": 136,
+      "variancia": 231.2092,
+      "desvio_padrao": 15.2056,
+      "minimo": 21,
+      "maximo": 157
     },
-    "despesa_diaria": {
-      "media": 160.4167,
-      "mediana": 115.0,
-      "moda": 120.0,
-      "amplitude": 330.0,
-      "variancia": 11374.8106,
-      "desvio_padrao": 106.6528,
-      "minimo": 60.0,
-      "maximo": 390.0
-    },
-    "lucro_diario": {
-      "media": 306.2917,
-      "mediana": 317.5,
-      "moda": 200.5,
-      "amplitude": 610.0,
-      "variancia": 34659.1117,
-      "desvio_padrao": 186.1696,
-      "minimo": -20.0,
-      "maximo": 590.0
-    },
-    "ticket_receita": {
-      "media": 466.7083,
-      "mediana": 430.0,
-      "moda": 320.5,
-      "amplitude": 890.0,
-      "variancia": 74356.3845,
-      "desvio_padrao": 272.6837,
-      "minimo": 90.0,
-      "maximo": 980.0
+    "away_scores": {
+      "media": 113.1901,
+      "mediana": 114,
+      "moda": 111,
+      "amplitude": 132,
+      "variancia": 223.0925,
+      "desvio_padrao": 14.9363,
+      "minimo": 25,
+      "maximo": 157
     }
   },
   "insights": [
-    "A média mostra o comportamento central, enquanto mediana e moda ajudam a validar se há distorções.",
-    "A variância e o desvio padrão ajudam a medir estabilidade financeira."
+    "A média indica o desempenho médio dos times.",
+    "A variância mostra o quanto os placares variam entre os jogos.",
+    "Diferenças grandes podem indicar inconsistência ou jogos atípicos."
   ]
 }
