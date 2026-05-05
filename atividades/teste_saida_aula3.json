@@ -1,0 +1,52 @@
+{
+  "tema": "Organizar os dados para entender distribuição e faixas de desempenho",
+  "problema_financeiro": "O empreendedor vê números soltos, mas não enxerga faixas de valor, frequência ou concentração.",
+  "calculos": {
+    "tabela_frequencia_categoria": [
+      {
+        "valor": "Pontuacao",
+        "frequencia": 8,
+        "percentual": 80.0
+      },
+      {
+        "valor": "Defesa",
+        "frequencia": 2,
+        "percentual": 20.0
+      }
+    ],
+    "tabela_frequencia_forma_pagamento": [],
+    "tabela_contingencia_categoria_pagamento": {},
+    "quartis_receita_diaria": {
+      "q1": 0.0,
+      "q2_mediana": 0.0,
+      "q3": 0.0
+    },
+    "quartis_lucro_diario": {
+      "q1": 0.0,
+      "q2_mediana": 0.0,
+      "q3": 0.0
+    },
+    "decis_ticket": {
+      "d1": null,
+      "d2": null,
+      "d3": null,
+      "d4": null,
+      "d5": null,
+      "d6": null,
+      "d7": null,
+      "d8": null,
+      "d9": null
+    },
+    "percentis_ticket": {
+      "p10": null,
+      "p25": null,
+      "p50": null,
+      "p75": null,
+      "p90": null
+    }
+  },
+  "insights": [
+    "As tabelas ajudam a descobrir onde há maior concentração de receitas, despesas e formas de pagamento.",
+    "Quartis, decis e percentis permitem segmentar clientes, tickets e períodos do negócio."
+  ]
+}
