@@ -1,0 +1,23 @@
+{
+  "tema": "Entender o que influencia o resultado financeiro",
+  "problema_financeiro": "O empreendedor quer saber o que parece impactar faturamento, lucro ou estabilidade.",
+  "calculos": {
+    "correlacoes": {
+      "marketing_x_receita": 0.9974,
+      "marketing_x_lucro": 0.9687,
+      "desconto_x_receita": -0.7671,
+      "clientes_x_receita": null,
+      "vendas_qtd_x_receita": null,
+      "despesa_x_lucro": 0.7569
+    },
+    "relacao_mais_forte": {
+      "par": "marketing_x_receita",
+      "correlacao": 0.9974
+    },
+    "nota_causalidade": "Correlação não prova causalidade; os resultados indicam associação estatística e devem ser validados no contexto do negócio."
+  },
+  "insights": [
+    "Esta etapa ajuda a entender o que se move junto com receita ou lucro.",
+    "Ela não substitui análise causal, mas orienta testes e decisões do projeto."
+  ]
+}

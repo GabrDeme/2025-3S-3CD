@@ -1,0 +1,50 @@
+{
+  "negocio": {
+    "nome": "Loja Exemplo do Empreendedor",
+    "segmento": "Varejo",
+    "cidade": "São Caetano do Sul"
+  },
+  "recepcao": {
+    "origem": "formulario_web",
+    "observacao": "Dataset ajustado com variação para análise estatística mais rica"
+  },
+  "dados": {
+    "transacoes": [
+      {"id": "T001", "data": "2026-04-01", "tipo": "receita", "categoria": "Venda", "valor": 210.30, "cliente": "Cliente A", "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 5.00, "marketing": 10.0},
+      {"id": "T002", "data": "2026-04-01", "tipo": "despesa", "categoria": "Estoque", "valor": 180.00, "forma_pagamento": "boleto", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T003", "data": "2026-04-02", "tipo": "receita", "categoria": "Venda", "valor": 150.00, "cliente": "Cliente B", "forma_pagamento": "cartao", "pago_no_prazo": false, "desconto": 20.00, "marketing": 5.0},
+      {"id": "T004", "data": "2026-04-02", "tipo": "despesa", "categoria": "Marketing", "valor": 120.00, "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T005", "data": "2026-04-03", "tipo": "receita", "categoria": "Venda", "valor": 600.00, "cliente": "Cliente C", "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 80.0},
+      {"id": "T006", "data": "2026-04-03", "tipo": "despesa", "categoria": "Frete", "valor": 90.00, "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T007", "data": "2026-04-04", "tipo": "receita", "categoria": "Venda", "valor": 95.00, "cliente": "Cliente D", "forma_pagamento": "boleto", "pago_no_prazo": false, "desconto": 25.00, "marketing": 0.0},
+      {"id": "T008", "data": "2026-04-04", "tipo": "despesa", "categoria": "Estoque", "valor": 130.00, "forma_pagamento": "boleto", "pago_no_prazo": false, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T009", "data": "2026-04-05", "tipo": "receita", "categoria": "Venda", "valor": 720.00, "cliente": "Cliente E", "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 100.0},
+      {"id": "T010", "data": "2026-04-05", "tipo": "despesa", "categoria": "Aluguel", "valor": 250.00, "forma_pagamento": "boleto", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T011", "data": "2026-04-06", "tipo": "receita", "categoria": "Venda", "valor": 840.00, "cliente": "Cliente F", "forma_pagamento": "cartao", "pago_no_prazo": true, "desconto": 10.00, "marketing": 120.0},
+      {"id": "T012", "data": "2026-04-06", "tipo": "despesa", "categoria": "Imposto", "valor": 200.00, "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T013", "data": "2026-04-07", "tipo": "receita", "categoria": "Venda", "valor": 70.00, "cliente": "Cliente G", "forma_pagamento": "boleto", "pago_no_prazo": false, "desconto": 30.00, "marketing": 0.0},
+      {"id": "T014", "data": "2026-04-07", "tipo": "despesa", "categoria": "Frete", "valor": 150.00, "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T015", "data": "2026-04-08", "tipo": "receita", "categoria": "Venda", "valor": 910.00, "cliente": "Cliente H", "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 140.0},
+      {"id": "T016", "data": "2026-04-08", "tipo": "despesa", "categoria": "Estoque", "valor": 300.00, "forma_pagamento": "boleto", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T017", "data": "2026-04-09", "tipo": "receita", "categoria": "Venda", "valor": 380.00, "cliente": "Cliente I", "forma_pagamento": "cartao", "pago_no_prazo": true, "desconto": 8.00, "marketing": 50.0},
+      {"id": "T018", "data": "2026-04-09", "tipo": "despesa", "categoria": "Energia", "valor": 110.00, "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T019", "data": "2026-04-10", "tipo": "receita", "categoria": "Venda", "valor": 1200.00, "cliente": "Cliente J", "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 200.0},
+      {"id": "T020", "data": "2026-04-10", "tipo": "despesa", "categoria": "Estoque", "valor": 450.00, "forma_pagamento": "boleto", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T021", "data": "2026-04-11", "tipo": "receita", "categoria": "Venda", "valor": 190.00, "cliente": "Cliente K", "forma_pagamento": "boleto", "pago_no_prazo": false, "desconto": 15.00, "marketing": 10.0},
+      {"id": "T022", "data": "2026-04-11", "tipo": "despesa", "categoria": "Comissao", "valor": 95.00, "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0},
+
+      {"id": "T023", "data": "2026-04-12", "tipo": "receita", "categoria": "Venda", "valor": 1350.00, "cliente": "Cliente L", "forma_pagamento": "pix", "pago_no_prazo": true, "desconto": 0.00, "marketing": 220.0},
+      {"id": "T024", "data": "2026-04-12", "tipo": "despesa", "categoria": "Estoque", "valor": 500.00, "forma_pagamento": "boleto", "pago_no_prazo": true, "desconto": 0.00, "marketing": 0.0}
+    ]
+  }
+}
